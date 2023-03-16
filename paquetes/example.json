@@ -1,0 +1,15 @@
+{
+    "tittle": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "pages": 1170,
+    "publisher": "Allen & Unwin",
+    "language": "English",
+    "ISBN": "0-04-823293-3",
+    "public": true,
+    "tags": [
+        "fantasy",
+        "adventure",
+        "epic"
+    ]
+}
